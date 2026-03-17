@@ -15,27 +15,82 @@
 
 ## 🚀 Tech Stack
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge)
+### 💻 Programming Languages
+![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=microsoftsqlserver)
+
+---
+
+### ⚙ Backend Technologies
+![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-black?style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-purple?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-red?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/LINQ-blue?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-orange?style=for-the-badge)
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+---
 
-### Database
-![SQL Server](https://img.shields.io/badge/SQL-Server-red?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+### 🎨 Frontend Technologies
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI-CD-green?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+
+---
+
+### 🏗 Architecture & Concepts
+
+![OOP](https://img.shields.io/badge/OOP-blue?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-green?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-red?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-orange?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-blue?style=for-the-badge)
+
+---
+
+### 🗄 Database
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-grey?style=for-the-badge)
+
+---
+
+### 🛠 Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
+
+---
+
+### ☁ Cloud & Deployment
+
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+![IIS](https://img.shields.io/badge/IIS-grey?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-green?style=for-the-badge)
+
+---
+
+### 🧪 Testing & Practices
+
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-blue?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-orange?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-blue?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-red?style=for-the-badge)
+![Code Review](https://img.shields.io/badge/Code%20Review-green?style=for-the-badge)
+
+
+
 
 ---
 
