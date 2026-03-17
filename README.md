@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">Senior Software Engineer | .NET | Angular | AWS | SQL</h3>
+<h3 align="center">Senior Software Engineer | .NET | Angular | Azure | SQL</h3>
 
 ---
 
