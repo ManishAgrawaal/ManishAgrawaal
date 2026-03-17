@@ -71,7 +71,7 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](ADD_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/semanish/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/ManishAgrawaal)
 
