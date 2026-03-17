@@ -116,7 +116,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ManishAgrawaal&color=blue)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=header&text=Manish%20Kumar&fontSize=30&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=header&text=Manish%20Kumar&fontSize=30&fontColor=blue"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;.NET+Developer;Angular+Developer;Cloud+Enthusiast)
 
