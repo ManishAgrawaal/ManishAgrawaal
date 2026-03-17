@@ -58,15 +58,23 @@
 ---
 
 ## 👀 Profile Views
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Manish%20Kumar&fontSize=40&fontColor=ffffff"/>
 ![Visitor Count](https://komarev.com/ghpvc/?username=ManishAgrawaal&color=blue)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;.NET+Developer;Angular+Developer;Cloud+Enthusiast)
 ---
 
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/semanish/)
+## 🌐 Connect with me
 
+<a href="ADD_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/ManishAgrawaal">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge">
+</a>
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/ManishAgrawaal)
 
 ---
@@ -89,11 +97,17 @@ Senior Software Engineer experienced in developing secure banking modules, fund 
 
 ## 📌 Featured Projects
 
-You can check my repositories below for:
-✔ Banking Applications  
-✔ REST API Development  
-✔ Angular Applications  
-✔ Cloud Deployments  
+🔹 Banking Transaction System  
+Secure fund transfer module using .NET Core
+
+🔹 Flight Management System  
+Angular based flight booking UI
+
+🔹 REST API Project  
+JWT authentication and logging
+
+🔹 Cloud Deployment Project  
+AWS deployment practice
 
 ---
 
