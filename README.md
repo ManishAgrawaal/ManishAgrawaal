@@ -63,19 +63,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;.NET+Developer;Angular+Developer;Cloud+Enthusiast)
 ---
 
+
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/semanish/)
-## 🌐 Connect with me
-
-<a href="ADD_LINKEDIN">
+<a href="https://www.linkedin.com/in/semanish/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
 </a>
 
 <a href="https://github.com/ManishAgrawaal">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge">
 </a>
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/ManishAgrawaal)
+
 
 ---
 
