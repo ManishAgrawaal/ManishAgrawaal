@@ -57,12 +57,6 @@
 
 ---
 
-## 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ManishAgrawaal&theme=onedark)
-
----
-
 ## 👀 Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ManishAgrawaal&color=blue)
