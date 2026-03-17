@@ -58,8 +58,6 @@
 ---
 
 ## 👀 Profile Views
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Manish%20Kumar&fontSize=40&fontColor=ffffff"/>
-## 👀 Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ManishAgrawaal&color=blue)
 
